@@ -1,6 +1,6 @@
 # NeighbourHoot Prototype Functionality 
 
-The project makes and attempt at gamifying the concept of community exchange, which aims to lessen environmental clutter while engaging community with passive ways of sustainable behaviour. 
+The project makes an attempt at gamifying the concept of community exchange, which aims to lessen environmental clutter while engaging community with passive ways of sustainable behaviour. 
 
 The code presented in these files describes the functional aspects of the prototype for the project.
 
